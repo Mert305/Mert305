@@ -13,13 +13,13 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 <table>
 <tr>
 
-<td width =300>
+<td width =500>
 
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
 
 </td>
 
-<td width=400>
+<td width=500>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
 
