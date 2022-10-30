@@ -21,7 +21,7 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
 
 </td>
 
