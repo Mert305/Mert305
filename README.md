@@ -12,18 +12,11 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 <td>
 <table>
 <tr>
-
-<td>
-
+<td width =300>
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
-
 </td>
-
-<td>
-
+<td width=400>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
-
 </td>
-
 </tr>
 </table>
