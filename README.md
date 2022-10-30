@@ -5,3 +5,9 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
 
 
+## <div id = 2 align="center"><p>Languages and Tools:</p></div>
+
+
+### <div id = 3 align="center"><p>My GitHub Stats 📊</p></div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
