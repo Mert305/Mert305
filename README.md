@@ -4,7 +4,9 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
 <img width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />[instagram]
+<br></br>
 <img width="32" src="https://unpkg.com/simple-icons@v7/icons/tiktok.svg" align="center" />[Tiktok]
+<br></br>
 <img width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />[Linkedin]
 
 
