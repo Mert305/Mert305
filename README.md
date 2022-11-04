@@ -3,7 +3,7 @@
 I'm Mert, I'm working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the MobilerDev community and as the mobile team captain, I provide support to people who work on Android application development whenever I can, in FUTAG, a club of our school.
 
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
-<div ![](https://komarev.com/ghpvc/?username=Mert305&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Mert305&label=PROFILE+VIEWS)
 <a href="mailto:mergun305@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mergun305@gmail.com-blue?style=flat&amp;logo=gmail" 
 style="max-width: 100%;"></a>
 
