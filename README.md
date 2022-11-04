@@ -18,11 +18,11 @@ style="max-width: 100%;"></a>
 <table center>
 <tr>
 
-<td width =500 height="200">
+<td width =450 height="200">
 
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
 
-<td width=500 height="200">
+<td width=450 height="200">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
 
