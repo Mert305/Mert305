@@ -11,8 +11,10 @@ style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/mertergun305/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mertergun305-black?style=flat-square&amp;logo=instagram" style="max-width: 100%;"></a>
 </p>
 
-### <div id = 3 align="center"><p>Languages and Tools:</p></div>
+### <div id = 2 align="center"><p>Languages and Tools:</p></div>
 
+
+### <div id = 3 align="center"><p>My GitHub Stats 📊</p></div>
 <table center>
 <tr>
 
