@@ -4,10 +4,6 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
 
-<img alt="LinkedIn" src="https://www.linkedin.com/in/mert-erg%C3%BCn-99948a207/" data-canonical-src="https://img.shields.io/badge/LinkedIn-@Mertergun-blue?style=flat&amp;logo=linkedin" style="max-width: 100%;">
-
-
-
 ### <div id = 3 align="center"><p>My GitHub Stats 📊</p></div>
 <td>
 <table>
