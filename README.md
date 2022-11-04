@@ -13,9 +13,19 @@ style="max-width: 100%;"></a>
 
 ### <div id = 3 align="center"><p>Languages and Tools:</p></div>
 
-<p align="center" dir="auto">
-  
-  ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
-</p>
+<table center>
+<tr>
+
+<td width =450 height="180">
+
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
+
+<td width=450 height="180">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
+
+</td>
+
+</tr>
+</table>
+
