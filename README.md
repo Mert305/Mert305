@@ -5,7 +5,7 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+LinkedIn = https://www.youtube.com/watch?v=P8xMWWfbvR4
 ### <div id = 2 align="center"><p>Languages and Tools:</p></div>
 
 
