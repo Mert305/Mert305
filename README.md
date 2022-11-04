@@ -14,6 +14,7 @@ style="max-width: 100%;"></a>
 ### <div id = 3 align="center"><p>Languages and Tools:</p></div>
 
 ### <div id = 3 align="center"><p>My GitHub Stats 📊</p></div>
+<p align="center" dir="auto">
 <td>
 <table>
 <tr>
@@ -30,3 +31,5 @@ style="max-width: 100%;"></a>
 
 </tr>
 </table>
+  
+ </p>
