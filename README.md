@@ -2,7 +2,7 @@
 #
 I'm Mert, I'm working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the MobilerDev community and as the mobile team captain, I provide support to people who work on Android application development whenever I can, in FUTAG, a club of our school.
 
-src="" data-canonical-src="https://img.shields.io/badge/Email-adematicis41@gmail.com-blue?style=flat&amp;logo=gmail" style="max-width: 100%;"></a>
+
 
 ### <div id = 2 align="center"><p>Languages and Tools:</p></div>
 
