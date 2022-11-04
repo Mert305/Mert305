@@ -4,7 +4,7 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
 ![](https://komarev.com/ghpvc/?username=Mert305&label=PROFILE+VIEWS)
-<a href="mailto:mergun305@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mergun305@gmail.com-blue?style=flat&amp;logo=gmail" 
+<a href="mailto:mergun305@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mergun305@gmail.com-green?style=flat&amp;logo=gmail" 
 style="max-width: 100%;"></a>
 
 ### <div id = 3 align="center"><p>Languages and Tools:</p></div>
