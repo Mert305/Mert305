@@ -22,7 +22,7 @@ style="max-width: 100%;"></a>
 
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
 
-<td width=450 height="180">
+<td width=550 height="180">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
 
