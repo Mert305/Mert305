@@ -13,23 +13,11 @@ style="max-width: 100%;"></a>
 
 ### <div id = 3 align="center"><p>Languages and Tools:</p></div>
 
-### <div id = 3 align="center"><p>My GitHub Stats 📊</p></div>
 <p align="center" dir="auto">
-<td>
-<table>
-<tr>
 
-<td width =450 height="180">
+  ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
 
-![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight)
 
-<td width=450 height="180">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
-
-</td>
-
-</tr>
-</table>
-  
- </p>
+</p>
