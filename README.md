@@ -7,7 +7,7 @@ I'm Mert, I'm working on Android application development. I am sharing my projec
 <p align="center" dir="auto">
 <a href="mailto:mergun305@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mergun305@gmail.com-blue?style=flat&amp;logo=gmail" 
 style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/mert-erg%C3%BCn-99948a207/" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MertErgün-green?style=flat&amp;logo=linkedin" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mert-erg%C3%BCn-99948a207/" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MertErgün-blue?style=flat&amp;logo=linkedin" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/mertergun305/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mertergun305-black?style=flat-square&amp;logo=instagram" style="max-width: 100%;"></a>
 </p>
 
