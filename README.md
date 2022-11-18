@@ -25,5 +25,5 @@ style="max-width: 100%;"></a>
 
 ### <div id = 3 align="center"><p>My GitHub Stats 📊</p></div>
 
-<image align="left" width="%50" src="https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight">
-<image align="left" width="%50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight">
+<image align="left" width="%30" src="https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight">
+<image align="left" width="%30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight">
