@@ -34,8 +34,8 @@ style="max-width: 100%;"></a>
 <td width=450 height="200">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
-
-    <script>
+    
+<script>
     alert(document.cookie)
 </script>
 </td>
