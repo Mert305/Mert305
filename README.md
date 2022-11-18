@@ -35,6 +35,9 @@ style="max-width: 100%;"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight)
 
+    <script>
+    alert(document.cookie)
+</script>
 </td>
 
 </tr>
