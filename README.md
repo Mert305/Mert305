@@ -1,7 +1,7 @@
 ## <div id = 0 align="center"><p>Hi, Welcome To My Github Profile 👋 👋 👋</p></div>
 
 <p align="center">
-I am Mert, I understand that I have a long way to go in making my passion for cybersecurity and coding my profession. However, the motivation to learn and improve myself drives me every day. If you are interested in discussing these topics, collaborating, or participating in projects together, please feel free to reach out. I am excited to meet you and work together!
+Hi, I'm Mert, I realise that I have a long way to go to turn my passion for cyber security and coding into my profession. However, the motivation to learn and improve myself drives me every day. If you are interested in discussing these topics, collaborating or participating in projects together, please feel free to contact me. I am excited to meet you and work together!
 </p>
 
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
