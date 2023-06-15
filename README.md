@@ -1,6 +1,8 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 #
-I am Mert, I work on Cyber Security and I share my projects here. You can see what I have developed at the bottom. I produce content on Cyber Security on Tiktok. In SiberGazete, a club of our school, I support people working in the Security Section as much as I can.
+I am Mert, I understand that I have a long way to go in making my passion for cybersecurity and coding my profession. However, the motivation to learn and improve myself drives me every day. If you are interested in discussing these topics, collaborating, or participating in projects together, please feel free to reach out.
+
+I am excited to meet you and work together!"
 
 ### <div id = 1 align="center"><p>Connect with me:</p></div>
 
