@@ -1,8 +1,6 @@
 <div align="center">
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 </div>
-
-</div>
 #
 <p align="center">
 I am Mert, I understand that I have a long way to go in making my passion for cybersecurity and coding my profession. However, the motivation to learn and improve myself drives me every day. If you are interested in discussing these topics, collaborating, or participating in projects together, please feel free to reach out. I am excited to meet you and work together!
