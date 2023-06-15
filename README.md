@@ -27,6 +27,6 @@ style="max-width: 100%;"></a>
 
 ### <div id = 3 align="center"><p>My GitHub Stats 📊</p></div>
 <p align="center" dir="auto">
-    <image width="300" height="180" src="https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight">
-    <image width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight">
+    <image width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=Mert305&show_icons=true&theme=tokyonight">
+    <image width="350" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mert305&layout=compact&theme=tokyonight">
 </p>  
